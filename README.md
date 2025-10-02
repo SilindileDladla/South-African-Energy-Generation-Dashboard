@@ -21,7 +21,7 @@ An interactive Power BI dashboard analyzing South Africa's electricity generatio
 - **Excel** - Initial data exploration
 
 ## Project Structure
-
+```
 sa-energy-dashboard/
 ├── data/
 │   ├── raw/ (CSV from Our World in Data)
@@ -33,6 +33,7 @@ sa-energy-dashboard/
 ├── dashboards/ 
 │   └── energy-dashboard.pbix
 └── README.md
+```
 
 ## Getting Started
 
