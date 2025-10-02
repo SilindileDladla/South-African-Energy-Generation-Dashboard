@@ -1,2 +1,0 @@
-Original datasets from Our World in Data will be stored here.
-This preserves the raw data for reproducibility.
